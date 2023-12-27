@@ -36,7 +36,7 @@ export class ProjectsComponent {
       title: 'Vida Full Stack',
       width: '100px',
       height: '51px',
-      description: '',
+      description: 'A just wanna get out of this prison cell',
       links: [
         {
           name: 'Conheça o Blog',
@@ -50,7 +50,7 @@ export class ProjectsComponent {
       title: 'Vida Full Stack',
       width: '100px',
       height: '51px',
-      description: '',
+      description: 'A just wanna get out of this prison cell',
       links: [
         {
           name: 'Conheça o Blog',
@@ -64,7 +64,7 @@ export class ProjectsComponent {
       title: 'Vida Full Stack',
       width: '100px',
       height: '51px',
-      description: '',
+      description: 'A just wanna get out of this prison cell',
       links: [
         {
           name: 'Conheça o Blog',
@@ -78,7 +78,7 @@ export class ProjectsComponent {
       title: 'Vida Full Stack',
       width: '100px',
       height: '51px',
-      description: '',
+      description: 'A just wanna get out of this prison cell',
       links: [
         {
           name: 'Conheça o Blog',
@@ -92,7 +92,7 @@ export class ProjectsComponent {
       title: 'Vida Full Stack',
       width: '100px',
       height: '51px',
-      description: '',
+      description: 'A just wanna get out of this prison cell',
       links: [
         {
           name: 'Conheça o Blog',
@@ -106,7 +106,7 @@ export class ProjectsComponent {
       title: 'Vida Full Stack',
       width: '100px',
       height: '51px',
-      description: '',
+      description: 'A just wanna get out of this prison cell',
       links: [
         {
           name: 'Conheça o Blog',
