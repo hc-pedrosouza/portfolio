@@ -23,6 +23,90 @@ export class ProjectsComponent {
           href: 'https://vidafullstack.com.br'
         }
       ]
+    },
+    {
+      src: 'assets/img/projects/vfull.png',
+      alt: 'Projeto Vida Full Stack',
+      title: 'Vida Full Stack',
+      width: '100px',
+      height: '51px',
+      description: '',
+      links: [
+        {
+          name: 'Conheça o Blog',
+          href: 'https://vidafullstack.com.br'
+        }
+      ]
+    },
+    {
+      src: 'assets/img/projects/vfull.png',
+      alt: 'Projeto Vida Full Stack',
+      title: 'Vida Full Stack',
+      width: '100px',
+      height: '51px',
+      description: '',
+      links: [
+        {
+          name: 'Conheça o Blog',
+          href: 'https://vidafullstack.com.br'
+        }
+      ]
+    },
+    {
+      src: 'assets/img/projects/vfull.png',
+      alt: 'Projeto Vida Full Stack',
+      title: 'Vida Full Stack',
+      width: '100px',
+      height: '51px',
+      description: '',
+      links: [
+        {
+          name: 'Conheça o Blog',
+          href: 'https://vidafullstack.com.br'
+        }
+      ]
+    },
+    {
+      src: 'assets/img/projects/vfull.png',
+      alt: 'Projeto Vida Full Stack',
+      title: 'Vida Full Stack',
+      width: '100px',
+      height: '51px',
+      description: '',
+      links: [
+        {
+          name: 'Conheça o Blog',
+          href: 'https://vidafullstack.com.br'
+        }
+      ]
+    },
+    {
+      src: 'assets/img/projects/vfull.png',
+      alt: 'Projeto Vida Full Stack',
+      title: 'Vida Full Stack',
+      width: '100px',
+      height: '51px',
+      description: '',
+      links: [
+        {
+          name: 'Conheça o Blog',
+          href: 'https://vidafullstack.com.br'
+        }
+      ]
+    },
+    {
+      src: 'assets/img/projects/vfull.png',
+      alt: 'Projeto Vida Full Stack',
+      title: 'Vida Full Stack',
+      width: '100px',
+      height: '51px',
+      description: '',
+      links: [
+        {
+          name: 'Conheça o Blog',
+          href: 'https://vidafullstack.com.br'
+        }
+      ]
     }
   ])
 }
