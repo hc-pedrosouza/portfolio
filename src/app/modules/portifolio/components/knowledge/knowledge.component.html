@@ -2,9 +2,13 @@
     <h2>Conhecimentos</h2>
     <ul>
         @for (item of arrayKnowledge(); track item) {
+            <div class="tooltip">
             <li>
                 <img [src]="item.src" [alt]="item.alt" loading="lazy" width="22px" height="24px">
             </li>
+            
+                <span class="tooltiptext"> {{item.alt}}</span>
+            </div>
         }
         
     </ul>
