@@ -51,7 +51,7 @@
     }
 
     section {
-      figure {
+      a {
         width: 335px;
         height: 77px;
         margin: 0;
@@ -59,35 +59,38 @@
         display: flex;
         justify-content: center;
         align-items: center;
-        gap: 20px;
         border: 1px solid var(--white);
         border-radius: 7px;
         transition: 500ms;
+
+        figure {
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+          gap: 10px;
+        }
         &:hover {
           background: var(--primary);
 
           figcaption {
-            a {
-              strong {
-                color: var(--white);
-              }
+            strong {
+              color: var(--white);
+            
             }
           }
       }
 
         figcaption {
-          a {
-            display: flex;
-            justify-content: center;
-            align-items: flex-start;
-            flex-direction: column;
-
-            p {
-              margin: 3px 0;
-            }
-            strong {
-              color: var(--primary);
-            }
+          display: flex;
+          justify-content: center;
+          align-items: flex-start;
+          flex-direction: column;
+          p {
+            margin: 3px 0;
+          }
+          strong {
+            color: var(--primary);
           }
         }
       }
