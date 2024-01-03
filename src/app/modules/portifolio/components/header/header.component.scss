@@ -62,6 +62,18 @@
         gap: 20px;
         border: 1px solid var(--white);
         border-radius: 7px;
+        transition: 500ms;
+        &:hover {
+          background: var(--primary);
+
+          figcaption {
+            a {
+              strong {
+                color: var(--white);
+              }
+            }
+          }
+      }
 
         figcaption {
           a {
