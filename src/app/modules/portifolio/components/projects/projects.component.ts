@@ -17,100 +17,72 @@ export class ProjectsComponent {
 
   public arrayProjects = signal<IProjects[]>([
     {
-      src: 'assets/img/projects/vfull.png',
-      alt: 'Projeto Vida Full Stack',
-      title: 'Vida Full Stack',
+      src: 'assets/img/projects/portfolio.png',
+      alt: 'Projeto portfolio',
+      title: 'Portfolio',
       width: '100px',
       height: '51px',
-      description: '',
+      description: 'Portifólio é um aplicativo Frontend que exibe algumas das principais informações sobre minha carreira profissional com tecnólogia. <br><br> <b>Desenvolvido em NodeJS, Angular e Typescript.</b>',
       links: [
         {
-          name: 'Conheça o Blog',
-          href: 'https://vidafullstack.com.br'
+          name: 'Github',
+          href: 'https://github.com/hc-pedrosouza/portifolio'
         }
       ]
     },
     {
-      src: 'assets/img/projects/vfull.png',
-      alt: 'Projeto Vida Full Stack',
-      title: 'Vida Full Stack',
+      src: 'assets/img/projects/poke.png',
+      alt: 'Projeto Pokedex',
+      title: 'Pokedex',
       width: '100px',
       height: '51px',
-      description: 'A just wanna get out of this prison cell',
+      description: 'PokedexApp é um aplicativo Frontend que lista informações dos principais Pokemons. <br><br><b>Desenvolvido em NodeJS e Angular</b>',
       links: [
         {
-          name: 'Conheça o Blog',
-          href: 'https://vidafullstack.com.br'
+          name: 'Github',
+          href: 'https://github.com/hc-pedrosouza/pokedex-app'
         }
       ]
     },
     {
-      src: 'assets/img/projects/vfull.png',
-      alt: 'Projeto Vida Full Stack',
-      title: 'Vida Full Stack',
+      src: 'assets/img/projects/csv.jpg',
+      alt: 'Projeto Move Be Name In CSV',
+      title: 'Move Be Name In CSV',
       width: '100px',
       height: '51px',
-      description: 'A just wanna get out of this prison cell',
+      description: 'Mova uma lista de arquivos forma simples e rápida.<br><br><b>Desenvolvido em Python 3.x</b>',
       links: [
         {
-          name: 'Conheça o Blog',
-          href: 'https://vidafullstack.com.br'
+          name: 'Github',
+          href: 'https://github.com/hc-pedrosouza/move-be-name-in-csv'
         }
       ]
     },
     {
-      src: 'assets/img/projects/vfull.png',
-      alt: 'Projeto Vida Full Stack',
-      title: 'Vida Full Stack',
+      src: 'assets/img/projects/resize.jpg',
+      alt: 'Projeto Resize',
+      title: 'Resize',
       width: '100px',
       height: '51px',
-      description: 'A just wanna get out of this prison cell',
+      description: 'Modifique e otimize o tamanho da suas imagens rapidamente.<br><br><b>Desenvolvido em Python 3.x</b>',
       links: [
         {
-          name: 'Conheça o Blog',
-          href: 'https://vidafullstack.com.br'
+          name: 'Github',
+          href: 'https://github.com/hc-pedrosouza/resize-png'
         }
       ]
     },
     {
-      src: 'assets/img/projects/vfull.png',
-      alt: 'Projeto Vida Full Stack',
-      title: 'Vida Full Stack',
+      src: 'assets/img/projects/lista-de-tarefas.png',
+      alt: 'Projeto Another TODO APP',
+      title: 'Another TODO APP',
       width: '100px',
       height: '51px',
-      description: 'A just wanna get out of this prison cell',
+      description: 'Another TODO APP é um aplicativo Frontend que permite voce criar listas de tarefas. <br><br><b>Desenvolvido em NodeJS e Angular</b>',
       links: [
         {
-          name: 'Conheça o Blog',
-          href: 'https://vidafullstack.com.br'
-        }
-      ]
-    },
-    {
-      src: 'assets/img/projects/vfull.png',
-      alt: 'Projeto Vida Full Stack',
-      title: 'Vida Full Stack',
-      width: '100px',
-      height: '51px',
-      description: 'A just wanna get out of this prison cell',
-      links: [
-        {
-          name: 'Conheça o Blog',
-          href: 'https://vidafullstack.com.br'
-        }
-      ]
-    },
-    {
-      src: 'assets/img/projects/vfull.png',
-      alt: 'Projeto Vida Full Stack',
-      title: 'Vida Full Stack',
-      width: '100px',
-      height: '51px',
-      description: 'A just wanna get out of this prison cell',
-      links: [
-        {
-          name: 'Conheça o Blog',
-          href: 'https://vidafullstack.com.br'
+          name: 'Github',
+          href: 'https://github.com/hc-pedrosouza/another-todo-app'
         }
       ]
     }
